@@ -1,2 +1,2 @@
-# Dom-nios-de-Software
+# Domínios de Software
 Projeto disciplina domínios de software
